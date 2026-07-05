@@ -40,8 +40,4 @@ The skills split into two halves. **Diagnosis** sharpens the thinking before you
 
 These skills are **100% free**.
 
-Need help? Contact us at [support@oria.one](mailto:support@oria.one)
-
 ---
-
-Built by [Oria AI](https://oria.one) — AI that builds McKinsey-grade slides
